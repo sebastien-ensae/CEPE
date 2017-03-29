@@ -61,7 +61,7 @@ hclust.id$hcut_lab<- rownames(hclust.id)
 
 #KO d.big.clust[d.big.clust$kcenter == hclust.id$hcut_lab, hcut <- hclust.id$cut.single]
 
-d.big.clust[d.big.clust$kcenter == hclust.id$hcut_lab, hcut <- hclust.id$cut.single]
+
 
 
 d.big.clust[1,]$kcenter
